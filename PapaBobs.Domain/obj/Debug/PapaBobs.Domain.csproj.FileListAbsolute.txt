@@ -1,0 +1,11 @@
+c:\users\bob_000\documents\visual studio 2013\Projects\PapaBobs\PapaBobs.Domain\bin\Debug\PapaBobs.Domain.dll
+c:\users\bob_000\documents\visual studio 2013\Projects\PapaBobs\PapaBobs.Domain\bin\Debug\PapaBobs.Domain.pdb
+c:\users\bob_000\documents\visual studio 2013\Projects\PapaBobs\PapaBobs.Domain\obj\Debug\PapaBobs.Domain.csprojResolveAssemblyReference.cache
+c:\users\bob_000\documents\visual studio 2013\Projects\PapaBobs\PapaBobs.Domain\obj\Debug\PapaBobs.Domain.dll
+c:\users\bob_000\documents\visual studio 2013\Projects\PapaBobs\PapaBobs.Domain\obj\Debug\PapaBobs.Domain.pdb
+c:\users\bob_000\documents\visual studio 2013\Projects\PapaBobs\PapaBobs.Domain\bin\Debug\PapaBobs.DTO.dll
+c:\users\bob_000\documents\visual studio 2013\Projects\PapaBobs\PapaBobs.Domain\bin\Debug\PapaBobs.Persistence.dll
+c:\users\bob_000\documents\visual studio 2013\Projects\PapaBobs\PapaBobs.Domain\bin\Debug\PapaBobs.DTO.pdb
+c:\users\bob_000\documents\visual studio 2013\Projects\PapaBobs\PapaBobs.Domain\bin\Debug\PapaBobs.Persistence.pdb
+C:\Users\bob_000\documents\visual studio 2013\Projects\PapaBobs\PapaBobs.Domain\bin\Debug\EntityFramework.dll
+C:\Users\bob_000\documents\visual studio 2013\Projects\PapaBobs\PapaBobs.Domain\bin\Debug\EntityFramework.xml
